@@ -1,0 +1,5770 @@
+<mets xmlns="http://www.loc.gov/METS/"
+xsi:schemaLocation="http://www.loc.gov/METS/ http://schema.ccs-gmbh.com/metae/mets-metae.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+TYPE="Newspaper"
+LABEL="The Brown Daily Herald no. 118 November 29 2010"
+OBJID="BDH_2010_11_29-METS">
+
+  <metsHdr CREATEDATE="2011-02-18T15:57:35"
+  LASTMODDATE="2011-02-18T15:57:35">
+
+    <agent ROLE="CREATOR"
+    TYPE="OTHER"
+    OTHERTYPE="SOFTWARE">
+
+      <name>
+      CCS
+      docWORKS/METAe
+      Version
+      6.4-3</name>
+      <note>
+      docWORKS-ID:
+      163576</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="MODSMD_PRINT">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of the printed version">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PRINT_TI1"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            The
+            Brown
+            Daily
+            Herald</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+          <MODS:identifier type="local">
+          29</MODS:identifier>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ELEC">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of the electronic version">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:originInfo>
+
+            <MODS:dateCreated point="start"
+            keyDate="yes"
+            qualifier="approximate">
+            2011-02-18</MODS:dateCreated>
+            <MODS:publisher>
+            CCS
+            Content
+            Conversion
+            Specialists
+            GmbH</MODS:publisher>
+          </MODS:originInfo>
+          <MODS:titleInfo ID="MODSMD_ELEC_TI1"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            The
+            Brown
+            Daily
+            Herald</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+          <MODS:identifier type="local">
+          29</MODS:identifier>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ISSUE1">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of Issue">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ISSUE1_TI1"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            The
+            Brown
+            Daily
+            Herald</MODS:title>
+            <MODS:partNumber>
+            118</MODS:partNumber>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+          <MODS:originInfo>
+
+            <MODS:dateIssued point="start"
+            keyDate="yes"
+            qualifier="approximate">
+            29.11.2010</MODS:dateIssued>
+          </MODS:originInfo>
+          <MODS:identifier type="local">
+          29</MODS:identifier>
+          <MODS:relatedItem ID="MODSMD_ISSUE1_RI1"
+          type="host">
+
+            <MODS:identifier type="local">
+            CXLV</MODS:identifier>
+          </MODS:relatedItem>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE1">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE1_TI1"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            STIMULATING</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT1">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT1_TI1"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Courtesy
+            of
+            Jungmin
+            Lee
+            The
+            Hillel
+            Gallery
+            exhibits
+            innovative
+            pieces
+            that
+            are
+            meant
+            to
+            be
+            "accessible"
+            and
+            "overstimulating"
+            in
+            a
+            digital
+            world.
+            See
+            page
+            3.</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE2">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE2_TI2"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Department's
+            mitosis
+            now
+            underway</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE2_N1"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            JEFFREY
+            HANDLER
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE3">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE3_TI3"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            INSIDE</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT2">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT2_TI2"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE4">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE4_TI4"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            More
+            rising
+            juniors
+            given
+            off-campus
+            permission</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE4_N2"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            INNI
+            YOUH
+            Contributing</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE5">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE5_TI5"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Alum
+            'shocked'
+            to
+            win
+            Nat'l
+            Book
+            Award</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE5_TI6"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            ARTS
+            &amp;
+            CULTURE</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE5_N3"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            APARNA
+            BANSAL
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE6">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE6_TI7"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Upset
+            hopes
+            put
+            on
+            ice,
+            but
+            m.
+            hockey
+            ties
+            twice</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE6_TI8"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            SPORTS</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE6_N4"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            ETHAN
+            MCCOY
+            Sports
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT3">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT3_TI3"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Jonathan
+            Bateman
+            /
+            Herald
+            Forward
+            and
+            captain
+            Harry
+            Zolnierczyk
+            '11
+            scored
+            a
+            goal
+            in
+            a
+            tie
+            with
+            Boston
+            University
+            on
+            Saturday,
+            but
+            he
+            was
+            later
+            ejected
+            from
+            the
+            game</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE7">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE7_TI9"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            M.
+            soccer
+            loses
+            2-0
+            in
+            Sweet
+            16</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE7_TI10"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            SPORTS</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE7_N5"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            ALEX
+            BELL
+            Senior
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT4">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT4_TI4"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Courtesy
+            of
+            Zack
+            Scan
+            Rosa
+            '12
+            and
+            the
+            men's
+            soccer
+            team
+            had
+            15
+            shots
+            Sunday,
+            but
+            the
+            team's
+            season
+            ended
+            in
+            a
+            2-0
+            lo</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE8">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE8_TI11"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Growth
+            in
+            enrollment
+            in
+            the
+            Community
+            Health
+            department</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT5">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT5_TI5"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Source:
+            Terrie
+            Wetle
+            /
+            Graphic
+            by
+            Julien
+            Ouellet</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE9">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE9_TI12"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            SUDOKU</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT6">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT6_TI6"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE10">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE10_TI13"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:nonSort>
+            THE</MODS:nonSort>
+            <MODS:title>
+            BROWN
+            Daily
+            Herald</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE11">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE11_TI14"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Trinity's
+            'Carol'
+            spreads
+            holiday
+            spirit</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE11_TI15"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            ARTS
+            &amp;
+            CULTURE</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE11_N6"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            AMY
+            CHEN
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT7">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT7_TI7"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Courtesy
+            of
+            MarkTur&lt;
+            Trinity
+            Rep's
+            production
+            of
+            "A
+            Christmas
+            Carol"
+            incorporates
+            dazzling
+            winte</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE12">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE12_TI16"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Trustee's
+            firm
+            subpoenaed
+            in
+            'soft
+            dollar'
+            investigations</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE13">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE13_TI17"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Hillel
+            Gallery
+            's(t)imulates'
+            senses</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE13_N7"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            KRISTINA
+            FAZZALARO
+            Senior
+            Staff</MODS:namePart>
+            <MODS:namePart type="family">
+            Writer</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE14">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT8">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT8_TI8"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE15">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE15_TI18"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:nonSort>
+            THE</MODS:nonSort>
+            <MODS:title>
+            BROWN
+            DAILY
+            HERALD</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE16">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT9">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT9_TI9"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            ALEX
+            YULY</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE17">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE17_TI19"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Loco
+            4
+            Loko</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE18">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE18_TI20"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Corporate
+            power
+            trip</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE18_TI21"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            This
+            search
+            for
+            "moral"
+            justice
+            has
+            complicated
+            product
+            distribution
+            for
+            Amazon
+            and
+            jeopardized
+            free
+            speech
+            rights
+            for
+            sellers.</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE18_N8"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            ELIZABETH
+            PEREZ
+            Opinions</MODS:namePart>
+            <MODS:namePart type="family">
+            Columnist</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE19">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE19_TI22"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Chafee-Taveras
+            partnership
+            integral
+            to
+            R.I.'s
+            future</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE19_TI23"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Coordination
+            between
+            the
+            governor
+            and
+            the
+            mayor
+            is
+            a
+            critical
+            ingredient
+            in
+            the
+            recipe
+            for
+            economic
+            recovery
+            and
+            future
+            expansion.</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE19_N9"
+          type="personal">
+
+            <MODS:namePart type="given">
+            BY
+            DAN
+            DAVIDSON
+            Opinions</MODS:namePart>
+            <MODS:namePart type="family">
+            Columnist</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE20">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE21">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT10">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT10_TI10"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE22">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE22_TI24"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:nonSort>
+            THE</MODS:nonSort>
+            <MODS:title>
+            NEWS
+            IN
+            IMAGES</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT11">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT11_TI11"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT12">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT12_TI12"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE23">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE23_TI25"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            CALENDAR</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE24">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE24_TI26"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            MENU</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE25">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE25_TI27"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            CROSSWORD</MODS:title>
+          </MODS:titleInfo>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT13">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT13_TI13"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            69
+            ill
+            m�
+            ?"</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT14">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT14_TI14"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            UJJtU.BJmU.UJ</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE26">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE26_TI28"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            COMICS</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo ID="MODSMD_ARTICLE26_TI29"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            BB
+            &amp;
+            Z</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE26_N10"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Cole
+            Pruitt,
+            Andrew</MODS:namePart>
+            <MODS:namePart type="family">
+            Seiden</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:name ID="MODSMD_ARTICLE26_N11"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Valerie</MODS:namePart>
+            <MODS:namePart type="family">
+            Hsiung</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT15">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT15_TI15"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE27">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE27_TI30"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Dot
+            Comic</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE27_N12"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Eshan</MODS:namePart>
+            <MODS:namePart type="family">
+            Mitra</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:name ID="MODSMD_ARTICLE27_N13"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Brendan</MODS:namePart>
+            <MODS:namePart type="family">
+            Hainline</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT16">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT16_TI16"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE28">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE28_TI31"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Classic
+            Deo</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE28_N14"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Daniel</MODS:namePart>
+            <MODS:namePart type="family">
+            Perez</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT17">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT17_TI17"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE29">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE29_TI32"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Classic
+            Homefries</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE29_N15"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Yifan</MODS:namePart>
+            <MODS:namePart type="family">
+            Luo</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT18">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT18_TI18"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ARTICLE30">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of article 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_ARTICLE30_TI33"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Classic
+            Jellyfish
+            Jellyfish</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name ID="MODSMD_ARTICLE30_N16"
+          type="personal">
+
+            <MODS:namePart type="given">
+            Adam
+            Hunter</MODS:namePart>
+            <MODS:namePart type="family">
+            Peck</MODS:namePart>
+            <MODS:role>
+
+              <MODS:roleTerm>
+              aut</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT19">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of picture">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:titleInfo ID="MODSMD_PICT19_TI19"
+          xml:lang="en"
+          xmlns:xml="http://www.w3.org/XML/1998/namespace">
+
+            <MODS:title>
+            Untitled</MODS:title>
+          </MODS:titleInfo>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_SECTION1">
+
+    <mdWrap MIMETYPE="text/xml"
+    MDTYPE="MODS"
+    LABEL="Bibliographic meta-data of section 0">
+
+      <xmlData>
+
+        <MODS:mods xmlns:MODS="http://www.loc.gov/mods/v3">
+
+          <MODS:language>
+
+            <MODS:languageTerm type="code"
+            authority="rfc3066">
+            en</MODS:languageTerm>
+          </MODS:language>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="IMGPARAM00001">
+
+    <techMD ID="IMGPARAM00001TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  2</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00001.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                5570912</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3300</mix:ImageWidth>
+                <mix:ImageLength>
+                5100</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8,8,8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                3</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_001.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00002">
+
+    <techMD ID="IMGPARAM00002TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  2</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00002.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                4482340</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3300</mix:ImageWidth>
+                <mix:ImageLength>
+                5100</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8,8,8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                3</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_002.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00003">
+
+    <techMD ID="IMGPARAM00003TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00003.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                3908455</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0852348</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    298</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    298</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3278</mix:ImageWidth>
+                <mix:ImageLength>
+                5135</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_003.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00004">
+
+    <techMD ID="IMGPARAM00004TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  2</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00004.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                6086337</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3300</mix:ImageWidth>
+                <mix:ImageLength>
+                5253</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8,8,8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                3</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_004.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00005">
+
+    <techMD ID="IMGPARAM00005TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  2</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00005.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                5016523</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0843853</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    301</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    301</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3377</mix:ImageWidth>
+                <mix:ImageLength>
+                5118</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8,8,8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                3</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_005.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00006">
+
+    <techMD ID="IMGPARAM00006TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00006.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                4045599</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                3300</mix:ImageWidth>
+                <mix:ImageLength>
+                5100</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_006.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00007">
+
+    <techMD ID="IMGPARAM00007TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00007.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                2248430</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.1270000</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    200</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    200</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                2201</mix:ImageWidth>
+                <mix:ImageLength>
+                3401</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_007.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00008">
+
+    <techMD ID="IMGPARAM00008TECHMD">
+
+      <mdWrap MDTYPE="NISOIMG">
+
+        <xmlData>
+
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+
+            <mix:BasicImageParameters>
+
+              <mix:Format>
+
+                <mix:MIMEType>
+                image/jp2</mix:MIMEType>
+                <mix:ByteOrder>
+                little-endian</mix:ByteOrder>
+                <mix:Compression>
+
+                  <mix:CompressionScheme>
+                  34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+
+                  <mix:ColorSpace>
+                  2</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+
+                <mix:ImageIdentifier imageIdentifierLocation="D:/localprocessing/DWSrv.exe/163576/Brown/Brown/2010/11/29_01/29_01">
+                BDH_2010_11_29_118_00008.jp2</mix:ImageIdentifier>
+                <mix:FileSize>
+                13982334</mix:FileSize>
+                <mix:Orientation>
+                1</mix:Orientation>
+                <mix:DisplayOrientation>
+                1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+
+              <mix:SourceType>
+              Newspaper</mix:SourceType>
+              <mix:SourceID />
+              <mix:ImageProducer />
+              <mix:Host>
+
+                <mix:HostComputer>
+                DWP5</mix:HostComputer>
+                <mix:OperatingSystem>
+                windows</mix:OperatingSystem>
+                <mix:OSVersion>
+                5.2
+                Service
+                Pack
+                2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource />
+              <mix:ScanningSystemCapture>
+
+                <mix:ScanningSystemHardware>
+
+                  <mix:ScannerManufacturer>
+                  not
+                  available</mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+
+                    <mix:ScannerModelName>
+                    not
+                    available</mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    not
+                    available</mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    not
+                    available</mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+
+                  <mix:ScanningSoftware>
+                  CCS
+                  docWORKS
+                  /
+                  METAe</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  not
+                  available</mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+
+                  <mix:PixelSize>
+                  0.0404458</mix:PixelSize>
+                  <mix:PhysScanResolution>
+
+                    <mix:XphysScanResolution>
+                    628</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>
+                    628</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+
+              <mix:SpatialMetrics>
+
+                <mix:ImageWidth>
+                7261</mix:ImageWidth>
+                <mix:ImageLength>
+                10677</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+
+                <mix:BitsPerSample>
+                8,8,8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>
+                3</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+
+              <mix:ImageProcessing>
+
+                <mix:SourceData>
+                ./Brown/2010/11/29_01/BDH_2010_11_29_118_008.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+
+    <fileGrp ID="IMGGRP"
+    USE="highres">
+
+      <file ID="IMG00001"
+      CREATED="2011-02-18T15:56:31"
+      ADMID="IMGPARAM00001"
+      MIMETYPE="image/jp2"
+      SEQ="1"
+      CHECKSUM="02da06fed06f6c3b19a5b8aa5f1a37b6"
+      CHECKSUMTYPE="MD5"
+      SIZE="5570912">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00001.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00002"
+      CREATED="2011-02-18T15:56:37"
+      ADMID="IMGPARAM00002"
+      MIMETYPE="image/jp2"
+      SEQ="2"
+      CHECKSUM="29f758ab797c1a0b4f32b746610c1be1"
+      CHECKSUMTYPE="MD5"
+      SIZE="4482340">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00002.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00003"
+      CREATED="2011-02-18T15:56:43"
+      ADMID="IMGPARAM00003"
+      MIMETYPE="image/jp2"
+      SEQ="3"
+      CHECKSUM="76f80abed78615bc7b2f2d0a3a068244"
+      CHECKSUMTYPE="MD5"
+      SIZE="3908455">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00003.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00004"
+      CREATED="2011-02-18T15:56:51"
+      ADMID="IMGPARAM00004"
+      MIMETYPE="image/jp2"
+      SEQ="4"
+      CHECKSUM="b5ff32b9274557e8d5c425694110c36a"
+      CHECKSUMTYPE="MD5"
+      SIZE="6086337">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00004.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00005"
+      CREATED="2011-02-18T15:56:59"
+      ADMID="IMGPARAM00005"
+      MIMETYPE="image/jp2"
+      SEQ="5"
+      CHECKSUM="d112400d617f0eb8fc5e07796694f95a"
+      CHECKSUMTYPE="MD5"
+      SIZE="5016523">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00005.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00006"
+      CREATED="2011-02-18T15:57:05"
+      ADMID="IMGPARAM00006"
+      MIMETYPE="image/jp2"
+      SEQ="6"
+      CHECKSUM="e9bce0cc3406e373217fab50622feda2"
+      CHECKSUMTYPE="MD5"
+      SIZE="4045599">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00006.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00007"
+      CREATED="2011-02-18T15:57:08"
+      ADMID="IMGPARAM00007"
+      MIMETYPE="image/jp2"
+      SEQ="7"
+      CHECKSUM="1bb424e2344eb363b71730f16d18ecc7"
+      CHECKSUMTYPE="MD5"
+      SIZE="2248430">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00007.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="IMG00008"
+      CREATED="2011-02-18T15:57:16"
+      ADMID="IMGPARAM00008"
+      MIMETYPE="image/jp2"
+      SEQ="8"
+      CHECKSUM="87ce804d4574af3cda8728a2860883ff"
+      CHECKSUMTYPE="MD5"
+      SIZE="13982334">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_00008.jp2"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="ALTOGRP"
+    USE="alto">
+
+      <file ID="ALTO00001"
+      CREATED="2011-02-18T15:57:33"
+      MIMETYPE="text/xml"
+      CHECKSUM="120182b523b3a5410cffebeec6c8685e"
+      CHECKSUMTYPE="MD5"
+      SIZE="253129">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00001.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00002"
+      CREATED="2011-02-18T15:57:34"
+      MIMETYPE="text/xml"
+      CHECKSUM="2a4ea46dd65b6a280489139e532f9129"
+      CHECKSUMTYPE="MD5"
+      SIZE="244944">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00002.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00003"
+      CREATED="2011-02-18T15:57:34"
+      MIMETYPE="text/xml"
+      CHECKSUM="b85bc062e87358b0e8b8658ba5b6539e"
+      CHECKSUMTYPE="MD5"
+      SIZE="271620">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00003.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00004"
+      CREATED="2011-02-18T15:57:34"
+      MIMETYPE="text/xml"
+      CHECKSUM="805a30ddb5f023e7fa1b380d29c4d156"
+      CHECKSUMTYPE="MD5"
+      SIZE="118745">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00004.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00005"
+      CREATED="2011-02-18T15:57:34"
+      MIMETYPE="text/xml"
+      CHECKSUM="2723e74d567e913ba41de9e37f1ce1a6"
+      CHECKSUMTYPE="MD5"
+      SIZE="260322">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00005.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00006"
+      CREATED="2011-02-18T15:57:34"
+      MIMETYPE="text/xml"
+      CHECKSUM="af335b27f7b5b9822f2c05735d95d6e8"
+      CHECKSUMTYPE="MD5"
+      SIZE="244963">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00006.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00007"
+      CREATED="2011-02-18T15:57:35"
+      MIMETYPE="text/xml"
+      CHECKSUM="efdad7fd7f55060a1be6e63177b0f1ad"
+      CHECKSUMTYPE="MD5"
+      SIZE="355333">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00007.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="ALTO00008"
+      CREATED="2011-02-18T15:57:35"
+      MIMETYPE="text/xml"
+      CHECKSUM="8f0b86ae8a2a7be10ed4dbf690dd1810"
+      CHECKSUMTYPE="MD5"
+      SIZE="98656">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="BDH_2010_11_29_ALTO00008.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="JPGGRP"
+    USE="lowres">
+
+      <file ID="JPG00001"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00001"
+      MIMETYPE="image/jpg"
+      SEQ="1">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00001.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00002"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00002"
+      MIMETYPE="image/jpg"
+      SEQ="2">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00002.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00003"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00003"
+      MIMETYPE="image/jpg"
+      SEQ="3">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00003.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00004"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00004"
+      MIMETYPE="image/jpg"
+      SEQ="4">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00004.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00005"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00005"
+      MIMETYPE="image/jpg"
+      SEQ="5">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00005.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00006"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00006"
+      MIMETYPE="image/jpg"
+      SEQ="6">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00006.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00007"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00007"
+      MIMETYPE="image/jpg"
+      SEQ="7">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00007.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+      <file ID="JPG00008"
+      CREATED="2012-08-14T15:06:30"
+      ADMID="IMGPARAM00008"
+      MIMETYPE="image/jpg"
+      SEQ="8">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/jpegs/BDH_2010_11_29_00008.jpg"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="PDFGRP"
+    USE="use_pdf">
+
+      <file ID="PDF00001"
+      MIMETYPE="application/pdf"
+      SEQ="1">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/pdfs/BDH_2010_11_29.pdf"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="OCRGRP"
+    USE="ocr">
+
+      <file ID="OCR00001"
+      MIMETYPE="application/xml"
+      SEQ="1">
+
+        <FLocat LOCTYPE="URL"
+        xlink:href="http://dl.lib.brown.edu/xmlfiles/altofiles/bdh/BDH_2010_11_29-TEXT.xml"
+        xmlns:xlink="http://www.w3.org/TR/xlink" />
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap LABEL="Physical Structure"
+  TYPE="physical">
+
+    <div ID="DIV1"
+    LABEL="The Brown Daily Herald"
+    TYPE="Newspaper"
+    DMDID="MODSMD_PRINT MODSMD_ELEC">
+
+      <div ID="DIVP2"
+      ORDER="1"
+      ORDERLABEL="1"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00001" />
+            <area FILEID="ALTO00001"
+            BETYPE="IDREF"
+            BEGIN="P1" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00001" />
+      </div>
+      <div ID="DIVP3"
+      ORDER="2"
+      ORDERLABEL="2"
+      LABEL="2"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00002" />
+            <area FILEID="ALTO00002"
+            BETYPE="IDREF"
+            BEGIN="P2" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00002" />
+      </div>
+      <div ID="DIVP4"
+      ORDER="3"
+      ORDERLABEL="3"
+      LABEL="3"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00003" />
+            <area FILEID="ALTO00003"
+            BETYPE="IDREF"
+            BEGIN="P3" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00003" />
+      </div>
+      <div ID="DIVP5"
+      ORDER="4"
+      ORDERLABEL="4"
+      LABEL="4"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00004" />
+            <area FILEID="ALTO00004"
+            BETYPE="IDREF"
+            BEGIN="P4" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00004" />
+      </div>
+      <div ID="DIVP6"
+      ORDER="5"
+      ORDERLABEL="5"
+      LABEL="5"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00005" />
+            <area FILEID="ALTO00005"
+            BETYPE="IDREF"
+            BEGIN="P5" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00005" />
+      </div>
+      <div ID="DIVP7"
+      ORDER="6"
+      ORDERLABEL="6"
+      LABEL="6"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00006" />
+            <area FILEID="ALTO00006"
+            BETYPE="IDREF"
+            BEGIN="P6" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00006" />
+      </div>
+      <div ID="DIVP8"
+      ORDER="7"
+      ORDERLABEL="7"
+      LABEL="7"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00007" />
+            <area FILEID="ALTO00007"
+            BETYPE="IDREF"
+            BEGIN="P7" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00007" />
+      </div>
+      <div ID="DIVP9"
+      ORDER="8"
+      ORDERLABEL="8"
+      LABEL="8"
+      TYPE="PAGE">
+
+        <fptr>
+
+          <par>
+
+            <area FILEID="IMG00008" />
+            <area FILEID="ALTO00008"
+            BETYPE="IDREF"
+            BEGIN="P8" />
+          </par>
+        </fptr>
+        <fptr FILEID="JPG00008" />
+      </div>
+    </div>
+  </structMap>
+  <structMap LABEL="Logical Structure"
+  TYPE="LOGICAL">
+
+    <div ID="DIVL1"
+    TYPE="Newspaper"
+    LABEL="The Brown Daily Herald no. 118 November 29 2010">
+
+      <div ID="DIVL2"
+      TYPE="VOLUME"
+      DMDID="MODSMD_PRINT MODSMD_ELEC"
+      LABEL="The Brown Daily Herald no. 118 November 29 2010">
+
+        <div ID="DIVL3"
+        TYPE="ISSUE"
+        DMDID="MODSMD_ISSUE1"
+        LABEL="The Brown Daily Herald no. 118 November 29 2010">
+
+          <div ID="DIVL4"
+          TYPE="TITLE_SECTION">
+
+            <div ID="DIVL5"
+            TYPE="HEADLINE"
+            ORDER="1">
+
+              <fptr>
+
+                <area BETYPE="IDREF"
+                FILEID="ALTO00001"
+                BEGIN="P1_TB00001" />
+              </fptr>
+            </div>
+            <div ID="DIVL6"
+            TYPE="TEXTBLOCK"
+            ORDER="2">
+
+              <fptr>
+
+                <area BETYPE="IDREF"
+                FILEID="ALTO00001"
+                BEGIN="P1_TB00002" />
+              </fptr>
+            </div>
+            <div ID="DIVL7"
+            TYPE="TEXTBLOCK"
+            ORDER="3">
+
+              <fptr>
+
+                <area BETYPE="IDREF"
+                FILEID="ALTO00001"
+                BEGIN="P1_TB00003" />
+              </fptr>
+            </div>
+            <div ID="DIVL8"
+            TYPE="TEXTBLOCK"
+            ORDER="4">
+
+              <fptr>
+
+                <area BETYPE="IDREF"
+                FILEID="ALTO00001"
+                BEGIN="P1_TB00004" />
+              </fptr>
+            </div>
+          </div>
+          <div ID="DIVL9"
+          TYPE="CONTENT">
+
+            <div ID="DIVL10"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE1"
+            LABEL="STIMULATING">
+
+              <div ID="DIVL11"
+              TYPE="HEADING">
+
+                <div ID="DIVL12"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00005" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL13"
+              TYPE="BODY">
+
+                <div ID="DIVL14"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT1"
+                LABEL="Courtesy of Jungmin Lee The Hillel Gallery exhibits innovative pieces that are meant to be &quot;accessible&quot; and &quot;overstimulating&quot; in a digital world. See page 3.">
+
+                  <div ID="DIVL15"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL16"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00006" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL17"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE2"
+            LABEL="Department's mitosis now underway">
+
+              <div ID="DIVL18"
+              TYPE="HEADING">
+
+                <div ID="DIVL19"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00007" />
+                  </fptr>
+                </div>
+                <div ID="DIVL20"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00008" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL21"
+              TYPE="BODY">
+
+                <div ID="DIVL22"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL23"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL24"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00009" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL25"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL26"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00001" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00002" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL27"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE3"
+            LABEL="INSIDE">
+
+              <div ID="DIVL28"
+              TYPE="HEADING">
+
+                <div ID="DIVL29"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00010" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL30"
+              TYPE="BODY">
+
+                <div ID="DIVL31"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL32"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL33"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00011" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00012" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL34"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL35"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00013" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL36"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL37"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00014" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL38"
+                  TYPE="PARAGRAPH"
+                  ORDER="4">
+
+                    <div ID="DIVL39"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00015" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL40"
+                  TYPE="PARAGRAPH"
+                  ORDER="5">
+
+                    <div ID="DIVL41"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00016" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL42"
+                  TYPE="PARAGRAPH"
+                  ORDER="6">
+
+                    <div ID="DIVL43"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00017" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL44"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT2"
+                LABEL="Untitled">
+
+                  <div ID="DIVL45"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_CB00002" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL46"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE4"
+            LABEL="More rising juniors given off-campus permission">
+
+              <div ID="DIVL47"
+              TYPE="HEADING">
+
+                <div ID="DIVL48"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00018" />
+                  </fptr>
+                </div>
+                <div ID="DIVL49"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00019" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL50"
+              TYPE="BODY">
+
+                <div ID="DIVL51"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL52"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL53"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00020" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00021" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00003" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00004" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00005" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL54"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE5"
+            LABEL="Alum 'shocked' to win Nat'l Book Award ARTS &amp; CULTURE">
+
+              <div ID="DIVL55"
+              TYPE="HEADING">
+
+                <div ID="DIVL56"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00022" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00024" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL57"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00023" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL58"
+              TYPE="BODY">
+
+                <div ID="DIVL59"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL60"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL61"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00025" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00026" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL62"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL63"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00027" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00028" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00003"
+                          BEGIN="P3_TB00001" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL64"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL65"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00003"
+                        BEGIN="P3_TB00002" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL66"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE6"
+            LABEL="Upset hopes put on ice, but m. hockey ties twice SPORTS">
+
+              <div ID="DIVL67"
+              TYPE="HEADING">
+
+                <div ID="DIVL68"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00029" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00031" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL69"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00030" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL70"
+              TYPE="BODY">
+
+                <div ID="DIVL71"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL72"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL73"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00032" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL74"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL75"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00033" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00001"
+                          BEGIN="P1_TB00034" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00005"
+                          BEGIN="P5_TB00001" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL76"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL77"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00005"
+                        BEGIN="P5_TB00002" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL78"
+                  TYPE="PARAGRAPH"
+                  ORDER="4">
+
+                    <div ID="DIVL79"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00005"
+                        BEGIN="P5_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL80"
+                  TYPE="PARAGRAPH"
+                  ORDER="5">
+
+                    <div ID="DIVL81"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00005"
+                          BEGIN="P5_TB00004" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00005"
+                          BEGIN="P5_TB00005" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL82"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT3"
+                LABEL="Jonathan Bateman / Herald Forward and captain Harry Zolnierczyk '11 scored a goal in a tie with Boston University on Saturday, but he was later ejected from the game">
+
+                  <div ID="DIVL83"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL84"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00035" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL85"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE7"
+            LABEL="M. soccer loses 2-0 in Sweet 16 SPORTS">
+
+              <div ID="DIVL86"
+              TYPE="HEADING">
+
+                <div ID="DIVL87"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00036" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00001"
+                      BEGIN="P1_TB00038" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL88"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00001"
+                    BEGIN="P1_TB00037" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL89"
+              TYPE="BODY">
+
+                <div ID="DIVL90"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL91"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL92"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00039" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL93"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL94"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00001"
+                        BEGIN="P1_TB00040" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL95"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL96"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00005"
+                          BEGIN="P5_TB00006" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00005"
+                          BEGIN="P5_TB00007" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL97"
+                  TYPE="PARAGRAPH"
+                  ORDER="4">
+
+                    <div ID="DIVL98"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00005"
+                        BEGIN="P5_TB00008" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL99"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT4"
+                LABEL="Courtesy of Zack Scan Rosa '12 and the men's soccer team had 15 shots Sunday, but the team's season ended in a 2-0 lo">
+
+                  <div ID="DIVL100"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00005"
+                      BEGIN="P5_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL101"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00005"
+                      BEGIN="P5_TB00009" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL102"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE8"
+            LABEL="Growth in enrollment in the Community Health department">
+
+              <div ID="DIVL103"
+              TYPE="HEADING">
+
+                <div ID="DIVL104"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00002"
+                    BEGIN="P2_TB00006" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL105"
+              TYPE="BODY">
+
+                <div ID="DIVL106"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT5"
+                LABEL="Source: Terrie Wetle / Graphic by Julien Ouellet">
+
+                  <div ID="DIVL107"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL108"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_TB00007" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL109"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE9"
+            LABEL="SUDOKU">
+
+              <div ID="DIVL110"
+              TYPE="HEADING">
+
+                <div ID="DIVL111"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00002"
+                    BEGIN="P2_TB00008" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL112"
+              TYPE="BODY">
+
+                <div ID="DIVL113"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT6"
+                LABEL="Untitled">
+
+                  <div ID="DIVL114"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_CB00002" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL115"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE10"
+            LABEL="THE BROWN Daily Herald">
+
+              <div ID="DIVL116"
+              TYPE="HEADING">
+
+                <div ID="DIVL117"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00002"
+                    BEGIN="P2_TB00009" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL118"
+              TYPE="BODY">
+
+                <div ID="DIVL119"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL120"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL121"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00002"
+                        BEGIN="P2_TB00010" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL122"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE11"
+            LABEL="Trinity's 'Carol' spreads holiday spirit ARTS &amp; CULTURE">
+
+              <div ID="DIVL123"
+              TYPE="HEADING">
+
+                <div ID="DIVL124"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_TB00011" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_TB00013" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL125"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00002"
+                    BEGIN="P2_TB00012" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL126"
+              TYPE="BODY">
+
+                <div ID="DIVL127"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL128"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL129"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00014" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00015" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL130"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL131"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00016" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00002"
+                          BEGIN="P2_TB00017" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00004"
+                          BEGIN="P4_TB00001" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL132"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL133"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00004"
+                          BEGIN="P4_TB00002" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00004"
+                          BEGIN="P4_TB00003" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00004"
+                          BEGIN="P4_TB00004" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00004"
+                          BEGIN="P4_TB00005" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL134"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT7"
+                LABEL="Courtesy of MarkTur&lt; Trinity Rep's production of &quot;A Christmas Carol&quot; incorporates dazzling winte">
+
+                  <div ID="DIVL135"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00004"
+                      BEGIN="P4_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL136"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00004"
+                      BEGIN="P4_TB00006" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL137"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE12"
+            LABEL="Trustee's firm subpoenaed in 'soft dollar' investigations">
+
+              <div ID="DIVL138"
+              TYPE="HEADING">
+
+                <div ID="DIVL139"
+                TYPE="OVERLINE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00002"
+                    BEGIN="P2_TB00018" />
+                  </fptr>
+                </div>
+                <div ID="DIVL140"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_TB00018" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_TB00019" />
+                    </seq>
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL141"
+              TYPE="BODY">
+
+                <div ID="DIVL142"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL143"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL144"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00002"
+                        BEGIN="P2_TB00020" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL145"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL146"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00002"
+                        BEGIN="P2_TB00021" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL147"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE13"
+            LABEL="Hillel Gallery 's(t)imulates' senses">
+
+              <div ID="DIVL148"
+              TYPE="HEADING">
+
+                <div ID="DIVL149"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00003"
+                    BEGIN="P3_TB00003" />
+                  </fptr>
+                </div>
+                <div ID="DIVL150"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00003"
+                    BEGIN="P3_TB00004" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL151"
+              TYPE="BODY">
+
+                <div ID="DIVL152"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL153"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL154"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00003"
+                        BEGIN="P3_TB00005" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL155"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL156"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00003"
+                          BEGIN="P3_TB00006" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00003"
+                          BEGIN="P3_TB00007" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL157"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE14">
+
+              <div ID="DIVL158"
+              TYPE="BODY">
+
+                <div ID="DIVL159"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT8"
+                LABEL="Untitled">
+
+                  <div ID="DIVL160"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_CB00001" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL161"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE15"
+            LABEL="THE BROWN DAILY HERALD">
+
+              <div ID="DIVL162"
+              TYPE="HEADING">
+
+                <div ID="DIVL163"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00006"
+                    BEGIN="P6_TB00001" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL164"
+              TYPE="BODY">
+
+                <div ID="DIVL165"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL166"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL167"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00006"
+                        BEGIN="P6_TB00002" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL168"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL169"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00006"
+                        BEGIN="P6_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL170"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE16">
+
+              <div ID="DIVL171"
+              TYPE="BODY">
+
+                <div ID="DIVL172"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT9"
+                LABEL="ALEX YULY">
+
+                  <div ID="DIVL173"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL174"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_TB00004" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL175"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE17"
+            LABEL="Loco 4 Loko">
+
+              <div ID="DIVL176"
+              TYPE="HEADING">
+
+                <div ID="DIVL177"
+                TYPE="OVERLINE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00006"
+                    BEGIN="P6_TB00005" />
+                  </fptr>
+                </div>
+                <div ID="DIVL178"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_TB00005" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_TB00006" />
+                    </seq>
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL179"
+              TYPE="BODY">
+
+                <div ID="DIVL180"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL181"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL182"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00006"
+                          BEGIN="P6_TB00007" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00006"
+                          BEGIN="P6_TB00008" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL183"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE18"
+            LABEL="Corporate power trip This search for &quot;moral&quot; justice has complicated product distribution for Amazon and jeopardized free speech rights for sellers.">
+
+              <div ID="DIVL184"
+              TYPE="HEADING">
+
+                <div ID="DIVL185"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00007"
+                      BEGIN="P7_TB00001" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00007"
+                      BEGIN="P7_TB00003" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL186"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00007"
+                    BEGIN="P7_TB00002" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL187"
+              TYPE="BODY">
+
+                <div ID="DIVL188"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL189"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL190"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00004" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00005" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL191"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL192"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00006" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00007" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL193"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL194"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00008" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00009" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL195"
+                  TYPE="PARAGRAPH"
+                  ORDER="4">
+
+                    <div ID="DIVL196"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00007"
+                        BEGIN="P7_TB00010" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL197"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE19"
+            LABEL="Chafee-Taveras partnership integral to R.I.'s future Coordination between the governor and the mayor is a critical ingredient in the recipe for economic recovery and future expansion.">
+
+              <div ID="DIVL198"
+              TYPE="HEADING">
+
+                <div ID="DIVL199"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00007"
+                      BEGIN="P7_TB00011" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00007"
+                      BEGIN="P7_TB00013" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL200"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00007"
+                    BEGIN="P7_TB00012" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL201"
+              TYPE="BODY">
+
+                <div ID="DIVL202"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL203"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL204"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00014" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00015" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL205"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL206"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00016" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00017" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL207"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL208"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <seq>
+
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00018" />
+                          <area BETYPE="IDREF"
+                          FILEID="ALTO00007"
+                          BEGIN="P7_TB00019" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL209"
+                  TYPE="PARAGRAPH"
+                  ORDER="4">
+
+                    <div ID="DIVL210"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00007"
+                        BEGIN="P7_TB00020" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL211"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE20">
+
+              <div ID="DIVL212"
+              TYPE="BODY">
+
+                <div ID="DIVL213"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL214"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL215"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00001" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL216"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE21">
+
+              <div ID="DIVL217"
+              TYPE="BODY">
+
+                <div ID="DIVL218"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT10"
+                LABEL="Untitled">
+
+                  <div ID="DIVL219"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00001" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL220"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE22"
+            LABEL="THE NEWS IN IMAGES">
+
+              <div ID="DIVL221"
+              TYPE="HEADING">
+
+                <div ID="DIVL222"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00002" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL223"
+              TYPE="BODY">
+
+                <div ID="DIVL224"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT11"
+                LABEL="Untitled">
+
+                  <div ID="DIVL225"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00002" />
+                    </fptr>
+                  </div>
+                </div>
+                <div ID="DIVL226"
+                TYPE="ILLUSTRATION"
+                ORDER="2"
+                DMDID="MODSMD_PICT12"
+                LABEL="Untitled">
+
+                  <div ID="DIVL227"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00003" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL228"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE23"
+            LABEL="CALENDAR">
+
+              <div ID="DIVL229"
+              TYPE="HEADING">
+
+                <div ID="DIVL230"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00003" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL231"
+              TYPE="BODY">
+
+                <div ID="DIVL232"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL233"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL234"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00004" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL235"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE24"
+            LABEL="MENU">
+
+              <div ID="DIVL236"
+              TYPE="HEADING">
+
+                <div ID="DIVL237"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00005" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL238"
+              TYPE="BODY">
+
+                <div ID="DIVL239"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL240"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL241"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00006" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL242"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE25"
+            LABEL="CROSSWORD">
+
+              <div ID="DIVL243"
+              TYPE="HEADING">
+
+                <div ID="DIVL244"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00007" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL245"
+              TYPE="BODY">
+
+                <div ID="DIVL246"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL247"
+                  TYPE="PARAGRAPH"
+                  ORDER="1">
+
+                    <div ID="DIVL248"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00008" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL249"
+                  TYPE="PARAGRAPH"
+                  ORDER="2">
+
+                    <div ID="DIVL250"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00009" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL251"
+                  TYPE="PARAGRAPH"
+                  ORDER="3">
+
+                    <div ID="DIVL252"
+                    TYPE="TEXT">
+
+                      <fptr>
+
+                        <area BETYPE="IDREF"
+                        FILEID="ALTO00008"
+                        BEGIN="P8_TB00010" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL253"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT13"
+                LABEL="69 ill m� ?&quot;">
+
+                  <div ID="DIVL254"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00004" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL255"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_TB00011" />
+                    </fptr>
+                  </div>
+                </div>
+                <div ID="DIVL256"
+                TYPE="ILLUSTRATION"
+                ORDER="2"
+                DMDID="MODSMD_PICT14"
+                LABEL="UJJtU.BJmU.UJ">
+
+                  <div ID="DIVL257"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00005" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL258"
+                  TYPE="CAPTION">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_TB00012" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL259"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE26"
+            LABEL="COMICS BB &amp; Z">
+
+              <div ID="DIVL260"
+              TYPE="HEADING">
+
+                <div ID="DIVL261"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <seq>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_TB00013" />
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_TB00014" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL262"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00015" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL263"
+              TYPE="BODY">
+
+                <div ID="DIVL264"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT15"
+                LABEL="Untitled">
+
+                  <div ID="DIVL265"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00006" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL266"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE27"
+            LABEL="Dot Comic">
+
+              <div ID="DIVL267"
+              TYPE="HEADING">
+
+                <div ID="DIVL268"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00016" />
+                  </fptr>
+                </div>
+                <div ID="DIVL269"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00017" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL270"
+              TYPE="BODY">
+
+                <div ID="DIVL271"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT16"
+                LABEL="Untitled">
+
+                  <div ID="DIVL272"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00007" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL273"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE28"
+            LABEL="Classic Deo">
+
+              <div ID="DIVL274"
+              TYPE="HEADING">
+
+                <div ID="DIVL275"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00018" />
+                  </fptr>
+                </div>
+                <div ID="DIVL276"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00019" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL277"
+              TYPE="BODY">
+
+                <div ID="DIVL278"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT17"
+                LABEL="Untitled">
+
+                  <div ID="DIVL279"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00008" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL280"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE29"
+            LABEL="Classic Homefries">
+
+              <div ID="DIVL281"
+              TYPE="HEADING">
+
+                <div ID="DIVL282"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00020" />
+                  </fptr>
+                </div>
+                <div ID="DIVL283"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00021" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL284"
+              TYPE="BODY">
+
+                <div ID="DIVL285"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT18"
+                LABEL="Untitled">
+
+                  <div ID="DIVL286"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00009" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL287"
+            TYPE="ARTICLE"
+            DMDID="MODSMD_ARTICLE30"
+            LABEL="Classic Jellyfish Jellyfish">
+
+              <div ID="DIVL288"
+              TYPE="HEADING">
+
+                <div ID="DIVL289"
+                TYPE="TITLE">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00022" />
+                  </fptr>
+                </div>
+                <div ID="DIVL290"
+                TYPE="AUTHOR">
+
+                  <fptr>
+
+                    <area BETYPE="IDREF"
+                    FILEID="ALTO00008"
+                    BEGIN="P8_TB00023" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL291"
+              TYPE="BODY">
+
+                <div ID="DIVL292"
+                TYPE="ILLUSTRATION"
+                ORDER="1"
+                DMDID="MODSMD_PICT19"
+                LABEL="Untitled">
+
+                  <div ID="DIVL293"
+                  TYPE="IMAGE">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00008"
+                      BEGIN="P8_CB00010" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL294"
+            TYPE="SECTION"
+            DMDID="MODSMD_SECTION1">
+
+              <div ID="DIVL295"
+              TYPE="BODY">
+
+                <div ID="DIVL296"
+                TYPE="BODY_CONTENT">
+
+                  <div ID="DIVL297"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="1"
+                  LABEL="Adv. 1 Page 2">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00002"
+                      BEGIN="P2_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL298"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="2"
+                  LABEL="Adv. 2 Page 3">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00003"
+                      BEGIN="P3_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL299"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="3"
+                  LABEL="Adv. 3 Page 3">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00003"
+                      BEGIN="P3_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL300"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="4"
+                  LABEL="Adv. 4 Page 4">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00004"
+                      BEGIN="P4_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL301"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="5"
+                  LABEL="Adv. 5 Page 4">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00004"
+                      BEGIN="P4_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL302"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="6"
+                  LABEL="Adv. 6 Page 4">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00004"
+                      BEGIN="P4_CB00004" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL303"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="7"
+                  LABEL="Adv. 7 Page 5">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00005"
+                      BEGIN="P5_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL304"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="8"
+                  LABEL="Adv. 8 Page 5">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00005"
+                      BEGIN="P5_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL305"
+                  TYPE="ADVERTISEMENT"
+                  ORDER="9"
+                  LABEL="Adv. 9 Page 6">
+
+                    <fptr>
+
+                      <area BETYPE="IDREF"
+                      FILEID="ALTO00006"
+                      BEGIN="P6_CB00003" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </structMap>
+</mets>
